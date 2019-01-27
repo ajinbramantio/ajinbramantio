@@ -1,3 +1,3 @@
 # Create Website Personal
 
-[ajinbramantio](https://ajinbramantio.netlify.com/).com
+[ajinbramantio].com(https://ajinbramantio.netlify.com/)
